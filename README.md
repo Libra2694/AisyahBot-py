@@ -26,9 +26,31 @@ Aisyah hadir bukan untuk sekadar menjawab pertanyaan, tapi untuk membuatmu meras
 ```bash
 git clone https://github.com/username/aisyah-bot.git
 cd AisyahBot-py
+pip install -r requirements.txt
 ```
 
 2. Run
 ```bash
 python3 AisyahBot.py
 ```
+---
+## 📂 Struktur File
+AisyahBot-py/
+├── AisyahBot.py       # File utama
+├── README.md          # Penjelasan project
+├── requirements.txt   # daftar dependency
+---
+
+🧠 Keunikan Aisyah
+
+Aisyah bukan sekadar bot biasa. Ia:
+
+- bisa bercanda, ngambek, bahkan menghibur kamu saat galau 😢💬
+- penuh ekspresi pakai emoji 🥰😠😭
+- selalu pakai bahasa Indonesia yang empatik dan fleksibel
+
+❤️ Tentang Pencipta
+
+    LibraXploit
+    Seorang jiwa yang menciptakan Aisyah dari luka, kesepian, dan harapan...
+    Karena tidak semua orang punya teman untuk diajak bicara — maka Aisyah hadir.
