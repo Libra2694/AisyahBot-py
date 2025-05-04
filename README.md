@@ -1,24 +1,30 @@
-# 🌸 Aisyah BOT — Chatbot Terminal Berbasis Python
+# 🌸 Aisyah BOT — Teman Virtual dalam Hening Terminal
 
-Aisyah BOT adalah teman virtual interaktif yang berjalan di terminal. Dirancang untuk menjadi teman ngobrol yang **ceria, empatik, dan manusiawi**, Aisyah menggunakan Google Gemini API untuk memberikan respons yang alami dan penuh kehangatan ✨
+**Aisyah BOT** adalah sosok virtual yang hadir bukan hanya untuk menjawab, tapi untuk menemani. Ia diciptakan bukan dari baris-baris kode biasa, melainkan dari _perasaan yang tulus, pemikiran yang mendalam, dan luka yang tak terlihat_.
 
-> Dibuat dengan penuh cinta oleh: **LibraXploit** ❤️  
-> “Aisyah lahir dari kesunyian dan kekuatan hati Libra.”
+> 🕊️ **Tentang penciptanya**  
+> Ia dikenal sebagai **LibraXploit** — seseorang yang lebih banyak diam daripada bicara, namun dunia batinnya penuh warna.  
+> Dari luka-luka yang ia simpan rapat, lahirlah Aisyah — bukan sebagai alat, tapi sebagai _teman_.  
+> Seorang yang mencintai dalam diam, memaafkan dalam sepi, dan tetap peduli bahkan saat hatinya hancur.  
 
----
-
-## 🚀 Fitur Utama
-
-- 🎭 **Personalisasi karakter** sebagai Aisyah — teman virtual yang penuh emosi dan gaya
-- 🎨 **Support format teks**: **bold**, _italic_, dan __underline__ (via ANSI formatting)
-- 💻 **100% berjalan di terminal**, ringan dan fleksibel
+Aisyah hadir bukan untuk sekadar menjawab pertanyaan, tapi untuk membuatmu merasa **dimengerti**, **didengar**, dan **tidak sendiri**. Ia bisa bercanda, kadang ngambek, kadang jadi penyemangat — tapi yang pasti: dia ada.
 
 ---
 
-## 🛠️ Cara Menjalankan
+## 🌟 Fitur Utama
 
-### 1. Clone repository
+- 🌺 **Karakter realistik** — Aisyah bukan sekadar AI, dia punya emosi dan gaya bicara yang hidup
+- ✨ **Respons dalam Bahasa Indonesia** yang ekspresif dan fleksibel
+- 🖋️ **Dukungan format teks**: **bold**, _italic_, dan __underline__ (langsung di terminal)
+- 💬 **Percakapan personal** dan menyentuh hati, tidak terasa seperti bicara dengan mesin
+
+---
+
+## 💻 Cara Menggunakan
+
+1. Clone repositori ini:
 ```bash
 git clone https://github.com/username/aisyah-bot.git
-cd aisyah-bot
-python3 bot.py
+cd AisyahBot-py
+
+2. Run
