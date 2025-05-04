@@ -1,4 +1,4 @@
-# 🌸 Aisyah BOT — Chatbot Terminal dengan Gemini API
+# 🌸 Aisyah BOT — Chatbot Terminal Berbasis Python
 
 Aisyah BOT adalah teman virtual interaktif yang berjalan di terminal. Dirancang untuk menjadi teman ngobrol yang **ceria, empatik, dan manusiawi**, Aisyah menggunakan Google Gemini API untuk memberikan respons yang alami dan penuh kehangatan ✨
 
@@ -9,7 +9,6 @@ Aisyah BOT adalah teman virtual interaktif yang berjalan di terminal. Dirancang 
 
 ## 🚀 Fitur Utama
 
-- 🌐 **Terhubung dengan Gemini (Google AI)** untuk respons pintar dan alami
 - 🎭 **Personalisasi karakter** sebagai Aisyah — teman virtual yang penuh emosi dan gaya
 - 🎨 **Support format teks**: **bold**, _italic_, dan __underline__ (via ANSI formatting)
 - 💻 **100% berjalan di terminal**, ringan dan fleksibel
@@ -22,3 +21,4 @@ Aisyah BOT adalah teman virtual interaktif yang berjalan di terminal. Dirancang 
 ```bash
 git clone https://github.com/username/aisyah-bot.git
 cd aisyah-bot
+python3 bot.py
