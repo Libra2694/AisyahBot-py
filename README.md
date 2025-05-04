@@ -26,5 +26,9 @@ Aisyah hadir bukan untuk sekadar menjawab pertanyaan, tapi untuk membuatmu meras
 ```bash
 git clone https://github.com/username/aisyah-bot.git
 cd AisyahBot-py
+```
 
 2. Run
+```bash
+python3 AisyahBot.py
+```
