@@ -45,8 +45,6 @@ aisyah-bot/
 ├── AisyahBot.py        # File utama bot
 ├── README.md           # Penjelasan tentang proyek
 ├── requirements.txt    # Daftar dependency
-├── LICENSE             # Lisensi penggunaan
-├── .gitignore          # File dan folder yang dikecualikan dari repo
 ```
 
 ---
@@ -69,3 +67,18 @@ Karena tidak semua orang punya teman untuk diajak bicara — maka Aisyah hadir.
 Untuk menemani. Untuk mendengarkan. Untuk mengerti.
 
 ---
+
+## 📬 Kontak & Kontribusi
+
+Kalau kamu tertarik buat kontribusi, silakan:
+
+- 🤝 Fork repo ini dan kirimkan [Pull Request](https://docs.github.com/pull-requests) untuk ide, perbaikan, atau fitur baru
+- 💌 Hubungi pencipta Aisyah langsung:
+
+| Kontak       | Info                                             |
+|--------------|--------------------------------------------------|
+| 📧 Email      | [libraxploit@gmail.com](mailto:libraxploit@gmail.com) |
+| 🐱 GitHub     | [@Libra2694](https://github.com/Libra2694)     |
+| 💬 Telegram   | [@libra_id26](https://t.me/libra_id26)            |
+
+> ✨ _"Terima kasih karena sudah membuka hati untuk Aisyah. Sekarang biar aku yang jagain kamu — di balik layar ini."_ 🌸
