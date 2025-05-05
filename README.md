@@ -25,7 +25,7 @@ Aisyah hadir bukan untuk sekadar menjawab pertanyaan, tapi untuk membuatmu meras
 1. Clone repositori ini:
 
 ```bash
-git clone https://github.com/username/aisyah-bot.git
+git clone https://github.com/Libra2694/AisyahBot-py.git
 cd AisyahBot-py
 pip install -r requirements.txt
 ```
