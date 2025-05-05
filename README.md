@@ -77,7 +77,7 @@ Kalau kamu tertarik buat kontribusi, silakan:
 
 | Kontak       | Info                                             |
 |--------------|--------------------------------------------------|
-| 📧 Email      | [LibraXploit(mailto:alifaja@gmail.com) |
+| 📧 Email      | [LibraXploit](mailto:alifaja@gmail.com) |
 | 🐱 GitHub     | [@Libra2694](https://github.com/Libra2694)     |
 | 💬 Telegram   | [@libra_id26](https://t.me/libra_id26)            |
 
