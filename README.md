@@ -33,7 +33,7 @@ pip install -r requirements.txt
 2. Run
 
 ```bash
-python3 AisyahBot.py
+python AisyahBot.py
 ```
 
 ---
