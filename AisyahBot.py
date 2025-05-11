@@ -1,6 +1,6 @@
 # File Enc by LibraXploit
 # Kalau mau mentahan nya silahkan hubungi aja  
-# Contact: ttps://sociabuzz.com/libra_id
+# Contact: https://sociabuzz.com/libra_id
 # Thanks to Allah SWT.
 
 import zlib
